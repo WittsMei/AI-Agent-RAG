@@ -1,6 +1,11 @@
 # AI-Agent-RAG
 
 
+
+## Embeddings, Distance, Top_K
+<img width="1586" height="928" alt="image" src="https://github.com/user-attachments/assets/e8749cc0-6268-4b5a-a7df-861ae1641efd" />
+
+
 ## What is corpus?
 - In the Agent Developer Kit (ADK) — which is used to build Multi-Agent Systems — a corpus is essentially a structured knowledge base or collection of data sources that your agent (or multiple agents) can retrieve information from using RAG (Retrieval-Augmented Generation). Think of it as the brain’s memory folder for the agent — not the model weights, but the retrievable world knowledge you explicitly connect it to.
 
@@ -8,6 +13,8 @@
 
 ## Install the gcloud CLI
 For more info, click here[https://cloud.google.com/sdk/docs/install].
+
+
 
 ## Create a corpus
 <img width="2244" height="1002" alt="6951f871-397b-4cc3-89c0-1ea076605745" src="https://github.com/user-attachments/assets/e9647e84-c979-440d-b8cc-80eeb8f871c5" />
