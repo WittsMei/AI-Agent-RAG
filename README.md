@@ -1,5 +1,7 @@
 # AI-Agent-RAG
 
+## Overview
+<img width="2026" height="426" alt="be3e9d2b-5fc5-4004-8a71-5e264c376087" src="https://github.com/user-attachments/assets/4b930a9d-45d0-4a65-b81d-4f8114f2c70c" />
 
 
 ## Embeddings, Distance, Top_K
