@@ -14,7 +14,8 @@
 - A corpus in ADK is a named and managed set of indexed documents, embeddings, and metadata that an agent uses for retrieval during reasoning or generation. It’s the RAG data layer that supports context grounding — the “retrieval” part of the pipeline.
 
 ## Install the gcloud CLI
-For more info, click here[https://cloud.google.com/sdk/docs/install].
+- CLI stands for Command-Line Interface.
+- For more info, click here[https://cloud.google.com/sdk/docs/install].
 
 
 
